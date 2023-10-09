@@ -21,3 +21,4 @@
 go.work
 /.vs
 /AutoNetwork/obj
+/AutoNetwork/bin/Debug/net6.0
